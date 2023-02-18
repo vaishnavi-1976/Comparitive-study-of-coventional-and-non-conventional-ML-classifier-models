@@ -1,0 +1,2 @@
+# Comparitive-study-of-coventional-and-non-conventional-ML-classifier-models
+We have here taken heartdiease dataset from Kaggle and perfomed comparative study between conventional ML classifier models (Logistic Regression, , Logistic Regression with PCA, Neural Networks and Decision Tree) with non conventional classifier ML models ( Random Forest , AdaBoost and XgBoost).We have compared models on basis of Accuracy , F1 score, Recall and precision values.
